@@ -1,0 +1,4 @@
+Kovács Péter;2;2
+Nagy Anna;3;0
+Szabó Gábor;1;2
+Tóth Dóra;4;1
